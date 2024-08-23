@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiNhietDo\bin\Debug\net8.0\ChuyenDoiNhietDo.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiNhietDo\bin\Debug\net8.0\ChuyenDoiNhietDo.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiNhietDo\bin\Debug\net8.0\ChuyenDoiNhietDo.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiNhietDo\bin\Debug\net8.0\ChuyenDoiNhietDo.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiNhietDo\bin\Debug\net8.0\ChuyenDoiNhietDo.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiNhietDo\obj\Debug\net8.0\ChuyenDoiNhietDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiNhietDo\obj\Debug\net8.0\ChuyenDoiNhietDo.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiNhietDo\obj\Debug\net8.0\ChuyenDoiNhietDo.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiNhietDo\obj\Debug\net8.0\ChuyenDoiNhietDo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiNhietDo\obj\Debug\net8.0\ChuyenDoiNhietDo.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiNhietDo\obj\Debug\net8.0\refint\ChuyenDoiNhietDo.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiNhietDo\obj\Debug\net8.0\ChuyenDoiNhietDo.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiNhietDo\obj\Debug\net8.0\ChuyenDoiNhietDo.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiNhietDo\obj\Debug\net8.0\ref\ChuyenDoiNhietDo.dll
